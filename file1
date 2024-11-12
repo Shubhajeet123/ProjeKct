@@ -1,0 +1,10 @@
+ First use "git add" command to add file in the repo
+ then use "git status" command (after every singlr command)
+ then use "git commit" to comit the changes.
+ then againn use "git status".
+ 
+
+     git log :- this command is use for see the commit 
+     git checkout :- to check the commit.
+ 
+
